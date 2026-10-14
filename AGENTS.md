@@ -13,7 +13,7 @@ The two clients and the console use `simple_live_core` through a relative path d
 
 ## Toolchain
 
-- Flutter is pinned to `3.47.1` with FVM in both Flutter projects.
+- Flutter is pinned to `3.47.7` with FVM in both Flutter projects.
 - Run Flutter commands from the relevant app directory with `fvm flutter ...`; use `fvm dart ...` when a Flutter project's Dart SDK is required.
 - Run `fvm install` in each Flutter project if the pinned SDK is not available locally.
 - Run Dart commands for `simple_live_core` and `simple_live_console` from their own directories.
